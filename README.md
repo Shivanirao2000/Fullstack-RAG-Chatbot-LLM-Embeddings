@@ -207,14 +207,3 @@ The Android app is built as a **Trusted Web Activity (TWA)** — a Chrome Custom
 ```
 
 ---
-
-## 🔮 Future Improvements
-
-- [ ] Cross-encoder reranking for higher retrieval precision
-- [ ] RAGAS evaluation framework (faithfulness, answer relevancy, context precision)
-- [ ] LangSmith tracing for end-to-end observability (latency, token cost, retrieval quality)
-- [ ] Streaming token-by-token LLM responses via SSE
-- [ ] Support for additional document types (DOCX, CSV, web scraping)
-- [ ] Kubernetes deployment manifests for horizontal scaling
-
----

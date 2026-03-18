@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Point this to your deployed web app URL -->
+    <string name="defaultUrl">http://10.25.103.54:8000</string>
+</resources>

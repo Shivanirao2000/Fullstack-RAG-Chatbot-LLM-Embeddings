@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.helloworld.groupchat.twa",
+      "sha256_cert_fingerprints": [
+        "07:84:55:22:F6:F3:20:B0:90:BA:12:27:FA:62:FF:B6:7F:A3:F2:76:26:D7:94:BC:09:48:13:BF:77:64:51:D3"
+      ]
+    }
+  }
+]

@@ -28,6 +28,21 @@
 
 ---
 
+## 🎥 Demo
+
+### Web Interface
+
+https://github.com/user-attachments/assets/4274ce4c-ff24-48bc-a6ad-107490690a19
+
+
+
+### Mobile App Interface
+
+https://github.com/user-attachments/assets/3eda89e1-ab37-4cd6-a4b5-a636e6040acb
+
+---
+
+
 ## ✨ Key Features
 
 | Feature | Details |
@@ -201,18 +216,5 @@ The Android app is built as a **Trusted Web Activity (TWA)** — a Chrome Custom
 - [ ] Streaming token-by-token LLM responses via SSE
 - [ ] Support for additional document types (DOCX, CSV, web scraping)
 - [ ] Kubernetes deployment manifests for horizontal scaling
-
----
-## 🎥 Demo
-
-### Web Interface
-
-https://github.com/user-attachments/assets/4274ce4c-ff24-48bc-a6ad-107490690a19
-
-
-
-### Mobile App Interface
-
-https://github.com/user-attachments/assets/3eda89e1-ab37-4cd6-a4b5-a636e6040acb
 
 ---
